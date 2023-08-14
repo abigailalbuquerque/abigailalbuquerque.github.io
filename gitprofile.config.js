@@ -48,6 +48,24 @@ const config = {
       to: 'September 2022',
       /* companyLink: 'https://example.com', */
     },
+    {
+      company: 'Worcester Polytechnic Institute',
+      position: 'Academic Technology Center Student Staff',
+      from: 'August 2021',
+      to: 'Present',
+    },
+    {
+      company: 'Worcester Polytechnic Institute',
+      position: 'Research Solutions Institute Student Helper',
+      from: 'April 2022',
+      to: 'Present',
+    },
+    {
+      company: 'Worcester Polytechnic Institute',
+      position: 'Sustainability Intern',
+      from: 'August 2021',
+      to: 'May 2022',
+    },
   ],
   /* certifications: [
     {
@@ -73,27 +91,27 @@ const config = {
   ],
 
   // To hide the `My Projects` section, keep it empty.
-  externalProjects: [
-    {
-      // title: 'Project Name',
-      // description:
-      //   'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      // imageUrl: 'https://via.placeholder.com/250x250',
-      // link: 'https://example.com',
-    },
-    {
-      // title: 'Project Name',
-      // description:
-      //   'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      // imageUrl: 'https://via.placeholder.com/250x250',
-      // link: 'https://example.com',
-    },
-  ],
+  // externalProjects: [
+  //   {
+  //     // title: 'Project Name',
+  //     // description:
+  //     //   'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+  //     // imageUrl: 'https://via.placeholder.com/250x250',
+  //     // link: 'https://example.com',
+  //   },
+  //   {
+  //     // title: 'Project Name',
+  //     // description:
+  //     //   'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+  //     // imageUrl: 'https://via.placeholder.com/250x250',
+  //     // link: 'https://example.com',
+  //   },
+  // ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    // source: 'dev', // medium | dev
-    // username: 'arifszn', // to hide blog section, keep it empty
-    // limit: 2, // How many posts to display. Max is 10.
+    source: 'medium', // medium | dev
+    username: 'aralbuquerque', // to hide blog section, keep it empty
+    limit: 10, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
@@ -108,7 +126,7 @@ const config = {
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
