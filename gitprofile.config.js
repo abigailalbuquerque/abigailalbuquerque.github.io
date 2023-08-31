@@ -16,10 +16,9 @@ const config = {
     phone: '+1 603-814-0854',
     email: 'aralbuquerque@wpi.edu',
   },
-  resume: {
-    fileUrl:
-      , // Empty fileUrl will hide the `Download Resume` button.
-  },
+  // resume: {
+  //   fileUrl: // Empty fileUrl will hide the `Download Resume` button.
+  // },
   skills: [
     'Python',
     'SQL',
