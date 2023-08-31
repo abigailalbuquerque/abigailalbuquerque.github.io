@@ -18,7 +18,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      , // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
