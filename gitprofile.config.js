@@ -17,7 +17,7 @@ const config = {
     email: 'aralbuquerque@wpi.edu',
   },
   // resume: {
-  //   fileUrl: // Empty fileUrl will hide the `Download Resume` button.
+  //   fileUrl: ''// Empty fileUrl will hide the `Download Resume` button.
   // },
   skills: [
     'Python',
@@ -88,7 +88,6 @@ const config = {
       to: '2024',
     },
   ],
-
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
@@ -113,7 +112,7 @@ const config = {
   //   limit: 10, // How many posts to display. Max is 10.
   // },
   googleAnalytics: {
-    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+    id: 'G-QY6Y0CNJWG', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
