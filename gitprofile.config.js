@@ -66,14 +66,14 @@ const config = {
       to: 'May 2022',
     },
   ],
-  /* certifications: [
+  certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'Deeplearning.ai',
+      body: 'The Deep Learning Specialization helps understand the foundational concepts in deep learning.',
+      year: 'February 2024',
+      link: 'https://www.credly.com/badges/80ceeedd-113a-4a58-a79b-5946f9d8d881/linked_in_profile'
     },
-  ], */
+  ],
   education: [
     {
       institution: 'Worcester Polytechnic Institute',
@@ -90,28 +90,28 @@ const config = {
   ],
 
   // To hide the `My Projects` section, keep it empty.
-  // externalProjects: [
-  //   {
-  //     // title: 'Project Name',
-  //     // description:
-  //     //   'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-  //     // imageUrl: 'https://via.placeholder.com/250x250',
-  //     // link: 'https://example.com',
-  //   },
-  //   {
-  //     // title: 'Project Name',
-  //     // description:
-  //     //   'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-  //     // imageUrl: 'https://via.placeholder.com/250x250',
-  //     // link: 'https://example.com',
-  //   },
-  // ],
+  externalProjects: [
+    {
+      title: 'Project Name',
+      description:
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+    {
+      title: 'Project Name',
+      description:
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+  ],
   // Display blog posts from your medium or dev account. (Optional)
-  blog: {
-    source: 'medium', // medium | dev
-    username: 'aralbuquerque', // to hide blog section, keep it empty
-    limit: 10, // How many posts to display. Max is 10.
-  },
+  // blog: {
+  //   source: 'medium', // medium | dev
+  //   username: 'aralbuquerque', // to hide blog section, keep it empty
+  //   limit: 10, // How many posts to display. Max is 10.
+  // },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
