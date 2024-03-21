@@ -91,19 +91,19 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: '2x2Madness',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'A game I developed using React.js. Rotate the squares to get a 2x2 square of the same color and click on the center of the square to remove the squares. Complete the game in the least moves possible. Click on the link below to play it!',
+      imageUrl: '2X2.png',
+      // link: 'https://example.com',
     },
-    {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
-    },
+    // {
+    //   title: 'Project Name',
+    //   description:
+    //     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+    //   imageUrl: 'https://via.placeholder.com/250x250',
+    //   link: 'https://example.com',
+    // },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   // blog: {
