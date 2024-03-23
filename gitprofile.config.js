@@ -95,7 +95,7 @@ const config = {
       description:
         'A game I developed using React.js. Rotate the squares to get a 2x2 square of the same color and click on the center of the square to remove the squares. Complete the game in the least moves possible. Click on the link below to play it!',
       imageUrl: '2X2.png',
-      // link: 'https://example.com',
+      link: 'https://abigailalbuquerque.github.io/2x2madness/',
     },
     // {
     //   title: 'Project Name',
