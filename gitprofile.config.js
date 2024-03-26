@@ -93,8 +93,8 @@ const config = {
     {
       title: '2x2Madness',
       description:
-        'A game I developed using React.js. Rotate the squares to get a 2x2 square of the same color and click on the center of the square to remove the squares. Complete the game in the least moves possible. Click on the link below to play it!',
-      imageUrl: '2X2.png',
+        'A game I developed using React.js. Rotate the squares to get a 2x2 square of the same color and click on the center of the square to remove the squares. Complete the game in the least moves possible. Click on this tile to play it!',
+      // imageUrl: '2X2.png',
       link: 'https://abigailalbuquerque.github.io/2x2madness/',
     },
     // {
