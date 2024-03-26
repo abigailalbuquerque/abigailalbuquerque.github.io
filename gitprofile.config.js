@@ -97,13 +97,12 @@ const config = {
       // imageUrl: '2X2.png',
       link: 'https://abigailalbuquerque.github.io/2x2madness/',
     },
-    // {
-    //   title: 'Project Name',
-    //   description:
-    //     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-    //   imageUrl: 'https://via.placeholder.com/250x250',
-    //   link: 'https://example.com',
-    // },
+    {
+      title: 'Data Visualization Experiment',
+      description:
+        'Using d3.js and React.js, I developed an experiment analyzing color perception. Click on this tile to take a look at the experiment results and take the color test yourself!',
+      link: 'https://github.com/abigailalbuquerque/a3-Experiment',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   // blog: {
