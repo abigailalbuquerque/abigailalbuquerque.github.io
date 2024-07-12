@@ -13,7 +13,6 @@ const config = {
   social: {
     linkedin: 'abigailalbuquerque',
     website: 'https://abigailalbuquerque.github.io',
-    phone: '+1 603-814-0854',
     email: 'aralbuquerque@wpi.edu',
   },
   // resume: {
